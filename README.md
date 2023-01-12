@@ -3,7 +3,7 @@
 ## Group :
 
 Ameerah <br>
-Raghad Aldakhil
-Nada Alkharji
-Khadijah
-Ruba
+Raghad Aldakhil <br>
+Nada Alkharji <br>
+Khadijah <br>
+Ruba <br>
