@@ -45,6 +45,64 @@ html,body {
    
 }
 
+/* here is my code */
+
+.heading-secondary {
+  float: right;
+/*   margin-top: 30px; */
+  margin-right: 350px; 
+  color: #800000;
+}
+
+.select-where {
+   color: #FF0000;
+}
+
+.cta-form {
+  margin-top: 0px;
+  padding: 10px;
+  list-style: circle;
+  font-size: 12px;
+  line-height: 1.6;
+  margin-bottom: 10px;
+  text-align:center ;
+  font-size: 25px
+}
+
+.btn-form {
+/*   border-radius: 5px; */
+  background-color: #C0C0C0;
+  margin-top: 40px;
+  color: #FF0000;
+  padding: 7px 25px;
+}
+
+.line {
+  font-size: 20px;
+  padding-top: 120px;
+}
+
+.bottom {
+  float: right;
+  margin-top: 10px;
+}
+
+.bottom-2 {
+  float: right;
+  margin-top: 40px;
+  margin-right: -470px;
+  font-size: 10px;
+}
+
+.bottom-3 {
+  float: right;
+  margin-top: 40px;
+  margin-right: 910px;
+  font-size: 10px;
+}
+
+/* end of my code */
+
 footer {
     /*do not change*/
     background-color: #415ba9;
