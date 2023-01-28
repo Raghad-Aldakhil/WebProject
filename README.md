@@ -4,6 +4,6 @@
 
 Ameerah <br>
 Raghad Aldakhil <br>
-Nada Alkharji <br>
+Nada Abdulmalek Alkharji <br>
 Khadijah <br>
 Ruba <br>
