@@ -107,8 +107,10 @@ footer {
     /*do not change*/
     background-color: #415ba9;
     position:relative ;
-    height: 250px;
-    margin-top: 10px ;
+/* I have changed */
+    height: 405px;
+    margin-top: 150px ;
+/*End of my changes*/
     clear: both;
     color: #ffffff;
 
