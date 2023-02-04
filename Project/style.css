@@ -1,8 +1,14 @@
 /* The Start - Nada */
+@import url("http://www.fontstatic.com/f=sky-bold,sky");
+
+body{
+    font-family: 'sky';
+}
+
 .title{
     font-size: 30px;
     text-align: right;
-    color: rgb(227, 46, 46);
+    color: #f15d4c;
     margin-top: 80px; 
     padding-bottom: 60px;
     padding-right: 10%;
@@ -21,7 +27,7 @@
     height: 20px;
     width: 54px;
     position: absolute;
-    color: rgb(227, 46, 46);
+    color: #f15d4c;
     top: 384.6px;
     left: 496.3px;
 }
@@ -30,14 +36,14 @@
     height: 18px;
     width: 18px;
     position: absolute;
-    color: rgb(227, 46, 46);
+    color: #f15d4c;
     top: 384px;
     left: 352px;
 }
 
 .aL1{
     font-size: 14px;
-    color: rgb(227, 46, 46);
+    color: #f15d4c;
     cursor: grab;
     position: absolute;
     text-decoration: none;
@@ -60,7 +66,7 @@
     height: 20px;
     width: 54px;
     position: absolute;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     top: 384.5px;
     left: 812.9px;
 }
@@ -69,14 +75,14 @@
     height: 18px;
     width: 18px;
     position: absolute;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     top: 384px;
     left: 655px;
 }
 
 .aR1{
     font-size: 14px;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     cursor: grab;
     position: absolute;
     text-decoration: none;
@@ -99,7 +105,7 @@
     height: 20px;
     width: 54px;
     position: absolute;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     top: 584.4px;
     left: 496px;
 }
@@ -108,14 +114,14 @@
     height: 18px;
     width: 18px;
     position: absolute;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     top: 584px;
     left: 353px;
 }
 
 .aL2{
     font-size: 14px;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     cursor: grab;
     position: absolute;
     text-decoration: none;
@@ -138,7 +144,7 @@
     height: 20px;
     width: 54px;
     position: absolute;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     top: 584.5px;
     left: 812.9px;
 }
@@ -154,7 +160,7 @@
 
 .aR2{
     font-size: 14px;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     cursor: grab;
     position: absolute;
     text-decoration: none;
@@ -178,7 +184,7 @@
     height: 20px;
     width: 54px;
     position: absolute;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     top: 784.5px;
     left: 495.9px;
 }
@@ -187,14 +193,14 @@
     height: 18px;
     width: 18px;
     position: absolute;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     top: 784px;
     left: 353px;
 }
 
 .aL3{
     font-size: 14px;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     cursor: grab;
     position: absolute;
     text-decoration: none;
@@ -218,7 +224,7 @@
     height: 20px;
     width: 54px;
     position: absolute;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     top: 784.4px;
     left: 813px;
 }
@@ -227,14 +233,14 @@
     height: 18px;
     width: 18px;
     position: absolute;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     top: 784px;
     left: 657px;
 }
 
 .aR3{
     font-size: 14px;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     cursor: grab;
     position: absolute;
     text-decoration: none;
@@ -256,7 +262,7 @@
 .title{
     font-size: 20px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     margin-top: 50px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -264,7 +270,7 @@
 .words{
     font-size: 15px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -272,7 +278,7 @@
 .WordLeft{
     font-size: 15px;
     text-align: left;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     padding-right: 20%;
     padding-left: 20%;
     padding-bottom: 100px;
@@ -287,7 +293,7 @@
     float: right;
     padding-right: 20%;
     padding-left: 20%;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     padding-bottom: 100px;
     cursor: grab;
     text-decoration: none;
@@ -308,7 +314,7 @@
 .title{
     font-size: 20px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     margin-top: 50px; 
     margin-left: 130px;
     font-family: Arial, Helvetica, sans-serif;
@@ -317,7 +323,7 @@
 .words{
     font-size: 15px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -325,7 +331,7 @@
 .WordLeft{
     font-size: 15px;
     text-align: left;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     padding-right: 20%;
     padding-left: 20%;
     padding-bottom: 100px;
@@ -340,7 +346,7 @@
     float: right;
     padding-right: 20%;
     padding-left: 20%;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     padding-bottom: 100px;
     cursor: grab;
     text-decoration: none;
@@ -362,7 +368,7 @@
 .title{
     font-size: 20px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     margin-top: 50px; 
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -370,7 +376,7 @@
 .words{
     font-size: 15px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -378,7 +384,7 @@
 .WordLeft{
     font-size: 15px;
     text-align: left;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     padding-right: 20%;
     padding-left: 20%;
     padding-bottom: 100px;
@@ -393,7 +399,7 @@
     float: right;
     padding-right: 20%;
     padding-left: 20%;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     padding-bottom: 100px;
     cursor: grab;
     text-decoration: none;
@@ -415,7 +421,7 @@
 .title{
     font-size: 20px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color: #f15d4c;
     margin-top: 50px; 
     /* margin-left: 150px; */
     font-family: Arial, Helvetica, sans-serif;
@@ -424,7 +430,7 @@
 .words{
     font-size: 15px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -432,7 +438,7 @@
 .WordLeft{
     font-size: 15px;
     text-align: left;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     padding-right: 20%;
     padding-left: 20%;
     padding-bottom: 100px;
@@ -447,7 +453,7 @@
     float: right;
     padding-right: 20%;
     padding-left: 20%;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     padding-bottom: 100px;
     cursor: grab;
     text-decoration: none;
@@ -469,7 +475,7 @@
 .title{
     font-size: 20px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     margin-top: 50px; 
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -477,7 +483,7 @@
 .words{
     font-size: 15px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -485,7 +491,7 @@
 .WordLeft{
     font-size: 15px;
     text-align: left;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     padding-right: 20%;
     padding-left: 20%;
     padding-bottom: 100px;
@@ -500,7 +506,7 @@
     float: right;
     padding-right: 20%;
     padding-left: 20%;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     padding-bottom: 100px;
     cursor: grab;
     text-decoration: none;
@@ -522,7 +528,7 @@
 .title{
     font-size: 20px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     margin-top: 50px; 
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -530,7 +536,7 @@
 .words{
     font-size: 15px;
     text-align: center;
-    color: rgb(227, 46, 46);
+    color:  #f15d4c;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -538,7 +544,7 @@
 .WordLeft{
     font-size: 15px;
     text-align: left;
-    color: rgb(227, 46, 46);
+    color: #f15d4c;
     padding-right: 20%;
     padding-left: 20%;
     padding-bottom: 100px;
@@ -553,7 +559,7 @@
     float: right;
     padding-right: 20%;
     padding-left: 20%;
-    color: rgb(227, 46, 46);
+    color: #f15d4c;
     padding-bottom: 100px;
     cursor: grab;
     text-decoration: none;
@@ -616,11 +622,11 @@ html,body {
   float: right;
 /*   margin-top: 30px; */
   margin-right: 350px; 
-  color: #800000;
+  color: #f15d4c;
 }
 
 .select-where {
-   color: #FF0000;
+   color: #f15d4c;
 }
 
 .cta-form {
@@ -638,7 +644,7 @@ html,body {
 /*   border-radius: 5px; */
   background-color: #C0C0C0;
   margin-top: 40px;
-  color: #FF0000;
+  color: #f15d4c;
   padding: 7px 25px;
 }
 
@@ -674,7 +680,7 @@ footer {
     position:relative ;
 /* I have changed */
     height: 405px;
-    margin-top: 150px ;
+    margin-top: 250px ;
 /*End of my changes*/
     clear: both;
     color: #ffffff;
@@ -741,3 +747,90 @@ footer {
     padding: 0 15px;
 
 }
+.title-font-orange {
+
+    margin-bottom: 60px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 70px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    font-size: xx-large;
+    float: right;
+    color: #f15d4c;
+    
+
+}
+.info-style{
+
+    background-color: #f5f5f5;
+    width: 700px;
+    padding: 20px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-style:ridge ;
+    border-width: 1px;
+    border-color: #C0C0C0;
+    text-align: center;
+    font-weight: bold;
+ 
+  
+
+}
+.img-riyadh{
+
+    width: 600px;
+    height: 410px;
+    display: block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    background-image: url(/WebProject-main/Project/images/istockphoto-939989958-612x612.jpg);
+
+}
+.break-div{
+    margin-top: 150px;
+}
+.info-style2 p {
+    padding: 10px;
+    font-weight: bold;
+    font-size: x-large;
+    color: #f15d4c;
+    text-align: center;
+
+}
+.info-style2{
+
+    padding: 10px;
+    width: 300px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style:ridge ;
+    border-width: 1px;
+    border-color: #C0C0C0;
+    text-align: right;
+    font-weight: bold;
+
+}
+/*
+.info-style3{
+
+    border-style:ridge ;
+    border-width: 1px;
+    border-color: #C0C0C0;
+    text-align: right;
+    font-weight: bold;
+
+}
+*/
+.divs  {
+    
+    display: flex;
+    align-content: center;
+    
+
+}
+
