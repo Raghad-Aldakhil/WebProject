@@ -1,10 +1,19 @@
+@import url("http://www.fontstatic.com/f=sky-bold,sky");
+
+body{
+    font-family: 'sky';
+}
+
 .title{
-    font-size: 30px;
+    font-size: xx-large;
     text-align: right;
-    color: rgb(227, 46, 46);
+    color: #f15d4c;
     margin-top: 80px; 
     padding-bottom: 60px;
     padding-right: 10%;
+    float:right ;
+    font-weight: bold;
+
 }
 
 /* Left 1 */
