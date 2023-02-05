@@ -8,8 +8,8 @@ body{
     font-size: xx-large;
     text-align: right;
     color: #f15d4c;
-    margin-top: 80px; 
-    padding-bottom: 60px;
+    margin-top: 60px; 
+    padding-bottom: 80px;
     padding-right: 10%;
     float:right ;
     font-weight: bold;
@@ -19,10 +19,12 @@ body{
 /* Left 1 */
 .ImageLeft1 img{
     height: 160px;
-    width: 200px;
-    float: left;
+    width: 203px;
+    float: right;
     position: relative;
-    padding-left: 350px ;
+    padding-right: 350px;
+    top: 158px;
+    left: 21px;
 }
 
 .buttonL1{
@@ -30,7 +32,7 @@ body{
     width: 54px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 384.6px;
+    top: 368px;
     left: 496.3px;
 }
 
@@ -39,7 +41,7 @@ body{
     width: 18px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 384px;
+    top: 368px;
     left: 352px;
 }
 
@@ -49,7 +51,7 @@ body{
     cursor: grab;
     position: absolute;
     text-decoration: none;
-    top: 388px;
+    top: 367px;
     left: 505.4px;
 }
 
@@ -61,7 +63,7 @@ body{
     position: relative;
     padding-right: 350px;
     top: 0px;
-    left: 0px;
+    left: 336px;
 }
 
 .buttonR1{
@@ -69,8 +71,8 @@ body{
     width: 54px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 384.5px;
-    left: 812.9px;
+    top: 370px;
+    left: 811.5px;
 }
 
 .okR1{
@@ -78,7 +80,7 @@ body{
     width: 18px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 384px;
+    top: 370px;
     left: 655px;
 }
 
@@ -88,8 +90,8 @@ body{
     cursor: grab;
     position: absolute;
     text-decoration: none;
-    top: 387.2px;
-    left: 823px;
+    top: 369px;
+    left: 820px;
 }
 
 
@@ -108,7 +110,7 @@ body{
     width: 54px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 584.4px;
+    top: 570px;
     left: 496px;
 }
 
@@ -117,7 +119,7 @@ body{
     width: 18px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 584px;
+    top: 570px;
     left: 353px;
 }
 
@@ -127,8 +129,8 @@ body{
     cursor: grab;
     position: absolute;
     text-decoration: none;
-    top: 588px;
-    left: 506.4px;
+    top: 569px;
+    left: 504.5px;
 }
 
 
@@ -147,7 +149,7 @@ body{
     width: 54px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 584.5px;
+    top: 570px;
     left: 812.9px;
 }
 
@@ -156,7 +158,7 @@ body{
     width: 18px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 584.5px;
+    top: 570px;
     left: 656px;
 }
 
@@ -166,7 +168,7 @@ body{
     cursor: grab;
     position: absolute;
     text-decoration: none;
-    top: 587px;
+    top: 569px;
     left: 822px;
 }
 
@@ -187,7 +189,7 @@ body{
     width: 54px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 784.5px;
+    top: 770px;
     left: 495.9px;
 }
 
@@ -196,7 +198,7 @@ body{
     width: 18px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 784px;
+    top: 770px;
     left: 353px;
 }
 
@@ -206,8 +208,8 @@ body{
     cursor: grab;
     position: absolute;
     text-decoration: none;
-    top: 787px;
-    left: 507px;
+    top: 769px;
+    left: 505px;
 }
 
 
@@ -227,8 +229,8 @@ body{
     width: 54px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 784.4px;
-    left: 813px;
+    top: 770px;
+    left: 812.5px;
 }
 
 .okR3{
@@ -236,7 +238,7 @@ body{
     width: 18px;
     position: absolute;
     color: rgb(227, 46, 46);
-    top: 784px;
+    top: 770px;
     left: 657px;
 }
 
@@ -246,7 +248,7 @@ body{
     cursor: grab;
     position: absolute;
     text-decoration: none;
-    top: 786.6px;
+    top: 770px;
     left: 822px;
 }
 
@@ -362,7 +364,7 @@ footer {
     background-color: #415ba9;
     position:relative ;
 /* I have changed */
-    height: 405px;
+    height: 450px;
     margin-top: 150px ;
 /*End of my changes*/
     clear: both;
