@@ -815,17 +815,7 @@ footer {
     font-weight: bold;
 
 }
-/*
-.info-style3{
 
-    border-style:ridge ;
-    border-width: 1px;
-    border-color: #C0C0C0;
-    text-align: right;
-    font-weight: bold;
-
-}
-*/
 .divs  {
     
     display: flex;
@@ -833,3 +823,286 @@ footer {
     
 
 }
+
+
+.section-box-background{
+    padding: 15em;
+    background-image: url(../Project/images/banner.png);
+    background-size:100% auto;
+    background-repeat: no-repeat;
+}
+.cover p{
+    text-align: right;
+    color: #ffffff;
+    font-size: x-large;
+    padding-right: 6em;
+    padding-left: 6em;
+
+}
+.cover{
+    text-align: center;
+    color: #ffffff;
+    font-size: x-large;
+    padding-bottom: 20em;
+    padding-top: 2em;
+    padding-left: 2em;
+    display: block;
+    background-color: #f15d4c;
+    border-radius: 25px;
+    width: 40%;
+    height: 10px;
+    margin-left: 60%;
+    margin-top: 10%;
+
+    
+}
+.read-more{
+
+    background-color: #ffffff;
+    display: block;
+    width: 13em;
+    margin-top: 7em;
+    margin-left: 11em;
+
+
+}
+.underline2{
+    text-decoration: none;
+    font-weight:bolder;
+    color: black;
+
+   
+}
+.plan-home{
+    display: flex;
+    padding: 3em;
+    background-color: rgb(255, 255, 255);
+    
+
+
+}
+.plans-home{
+
+    margin-left: 10%;
+    background-color: #ffffff;
+    display: flex;
+   
+    
+}
+.pic1{
+
+    margin: 20px;
+    
+    width: 30em;
+    height: 20em;    
+    background-color: #415ba9;
+    border: black;
+    border-style: solid;
+}
+.pic2{
+
+    
+    margin: 20px;
+    width: 30em;
+    height: 20em;    
+    background-color: #415ba9;
+    border: black;
+    border-style: solid;
+}
+.pic3{
+
+    margin: 20px;
+    width: 30em;
+    height: 20em;    
+    background-color: #415ba9;
+    border: black;
+    border-style: solid;
+}
+.text-plan{
+    background-color: #ffffff;
+    text-align: right;
+    padding-right: 13em;
+    font-size: larger;
+    font-weight: bold;
+}
+.plans-box{
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 50%;
+
+}
+.read-more-plan{
+    padding: 8px;
+    background-color: #ffffff;
+    display: block;
+    text-align: left;
+    
+    
+}
+
+.green-box{
+    padding: 10em;
+    background-color: #4aba78;
+    border-radius: 200px;
+    padding: 30px;
+    height:600px;
+    width: 100%;
+
+}
+.green-box-read{
+
+    color: #ffffff;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.green-box-read p{
+
+    padding-top: 10em;
+    padding-right: 20em;
+    color: #ffffff;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.company-pic{
+    margin-top: 310px;
+    margin-left: -400px;
+    background-repeat: no-repeat;
+    background-image: url(../Project/images/left3.png);
+    width: 50%;
+    min-height: 800px;
+    background-position: center;
+    background-size: cover;
+
+}
+.div-green-all{
+
+    width: 90%;
+    max-width: 1000PX;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.read-more2{
+
+    background-color: #ffffff;
+    display: block;
+    width: 13em;
+    margin-top: 13em;
+    margin-left: 15em;
+    padding: 1em;
+    text-align: center;
+
+
+}
+.boxes-companies{
+    background-color: rgb(255, 255, 255);
+    display:grid;
+    padding: 10em;
+}
+.two-boxes{
+    background-color: rgb(255, 255, 255);
+    padding: 3em;
+    display: flex;
+    margin-left: 15em;
+
+}
+.box-1company{
+    padding: 10%;
+    width: 30em;
+    background-image: url(../Project/images/left1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.box-2company{
+    padding: 10%;
+    width: 30em;
+    background-size: contain;
+    background-image: url(../Project/images/left2.png);
+    background-repeat: no-repeat;
+}
+
+.cpmany-names-divs{
+    width: fit-content;
+    display: flex;
+    position: relative;
+    margin-left: 20%;
+    padding: 3em;
+}
+#nam{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 1em;
+    margin-left: 10em;
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+    
+}
+.namess{
+    background-color: #ffffff;
+    padding: 1em;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    width: 30em;
+    margin-right: 200px;
+}
+.box-3company{
+    padding: 10%;
+    width: 30em;
+    background-size: contain;
+    background-image: url(../Project/images/right3.png);
+    background-repeat: no-repeat;
+}
+.box-4company{
+    padding: 10%;
+    width: 30em;
+    background-size: contain;
+    background-image: url(../Project/images/right2.png);
+    background-repeat: no-repeat;
+}
+#nam1{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 1em;
+    margin-left: 10em;
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+    
+}
+.read-more-companies-1{
+    
+    background-color: #f5f5f5;
+    display: block;
+    width: 8em;
+    padding: 1em;
+    text-align: center;
+    margin-left: 15em;
+
+
+}
+.toplogin{
+    
+    position: relative;
+    float: left;
+    border-radius: 5px;
+    background-color: #ededed;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding: 5px;
+
+}
+.underline3{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    padding-top: 60px;
+   
+}
+
