@@ -1,58 +1,17 @@
 @import url("http://www.fontstatic.com/f=sky-bold,sky");
+/* The Start - Nada */
 
 body{
     font-family: 'sky';
 }
 
-.title{
-    font-size: xx-large;
-    text-align: right;
-    color: #f15d4c;
-    margin-top: 60px; 
-    padding-bottom: 80px;
-    padding-right: 10%;
-    float:right ;
-    font-weight: bold;
-
-}
-
 /* Left 1 */
 .ImageLeft1 img{
     height: 160px;
-    width: 203px;
-    float: right;
+    width: 200px;
+    float: left;
     position: relative;
-    padding-right: 350px;
-    top: 158px;
-    left: 21px;
-}
-
-.buttonL1{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 368px;
-    left: 496.3px;
-}
-
-.okL1{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 368px;
-    left: 352px;
-}
-
-.aL1{
-    font-size: 14px;
-    color: rgb(227, 46, 46);
-    cursor: grab;
-    position: absolute;
-    text-decoration: none;
-    top: 367px;
-    left: 505.4px;
+    padding-left: 5px ;
 }
 
 /* Right 1 */
@@ -61,39 +20,10 @@ body{
     width: 213px;
     float: right;
     position: relative;
-    padding-right: 350px;
+    padding-right: 5px;
     top: 0px;
-    left: 336px;
+    left: 0px;
 }
-
-.buttonR1{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 370px;
-    left: 811.5px;
-}
-
-.okR1{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 370px;
-    left: 655px;
-}
-
-.aR1{
-    font-size: 14px;
-    color: rgb(227, 46, 46);
-    cursor: grab;
-    position: absolute;
-    text-decoration: none;
-    top: 369px;
-    left: 820px;
-}
-
 
 /* Left 2 */
 .ImageLeft2 img{
@@ -105,35 +35,6 @@ body{
     padding-top: 40px;
 }
 
-.buttonL2{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 570px;
-    left: 496px;
-}
-
-.okL2{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 570px;
-    left: 353px;
-}
-
-.aL2{
-    font-size: 14px;
-    color: rgb(227, 46, 46);
-    cursor: grab;
-    position: absolute;
-    text-decoration: none;
-    top: 569px;
-    left: 504.5px;
-}
-
-
 /* Right 2 */
 .ImageRight2 img{
     height: 160px;
@@ -143,35 +44,6 @@ body{
     padding-right: 350px;
     padding-top: 40px;
 }
-
-.buttonR2{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 570px;
-    left: 812.9px;
-}
-
-.okR2{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 570px;
-    left: 656px;
-}
-
-.aR2{
-    font-size: 14px;
-    color: rgb(227, 46, 46);
-    cursor: grab;
-    position: absolute;
-    text-decoration: none;
-    top: 569px;
-    left: 822px;
-}
-
 
 /* Left 3 */
 .ImageLeft3 img {
@@ -184,35 +56,6 @@ body{
     padding-bottom: 20px;
 }
 
-.buttonL3{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 770px;
-    left: 495.9px;
-}
-
-.okL3{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 770px;
-    left: 353px;
-}
-
-.aL3{
-    font-size: 14px;
-    color: rgb(227, 46, 46);
-    cursor: grab;
-    position: absolute;
-    text-decoration: none;
-    top: 769px;
-    left: 505px;
-}
-
-
 /* Right 3 */
 .ImageRight3 img{
     height: 160px;
@@ -224,35 +67,326 @@ body{
     padding-bottom: 100px;
 }
 
-.buttonR3{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 770px;
-    left: 812.5px;
+/* 1 The End Company - Nada */
+
+.companyImage{
+    height: 240px;
+    width: 450px;
+    float: center;
+    position: center;
+    margin-top: 5%;
+    margin-left: 23%;
 }
 
-.okR3{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 770px;
-    left: 657px;
+.title{
+    font-size: 20px;
+    text-align: center;
+    color:  #f15d4c;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.aR3{
-    font-size: 14px;
-    color: rgb(227, 46, 46);
+.words{
+    font-size: 15px;
+    text-align: center;
+    color:  #f15d4c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.WordLeft{
+    font-size: 15px;
+    text-align: left;
+    color:  #f15d4c;
+    padding-right: 20%;
+    padding-left: 20%;
+    padding-bottom: 100px;
     cursor: grab;
-    position: absolute;
     text-decoration: none;
-    top: 770px;
-    left: 822px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-/* The End - Nada */
+.WordRight{
+    font-size: 15px;
+    text-align: right;
+    float: right;
+    padding-right: 20%;
+    padding-left: 20%;
+    color:  #f15d4c;
+    padding-bottom: 100px;
+    cursor: grab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* 2 The End Left S1 - Nada */
+
+.companyImage{
+    height: 240px;
+    width: 450px;
+    float: center;
+    position: center;
+    margin-top: 5%;
+    margin-left: 23%;
+    border-radius: 14%;
+}
+
+.title{
+    font-size: 20px;
+    text-align: center;
+    color:  #f15d4c;
+    margin-top: 50px; 
+    margin-left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.words{
+    font-size: 15px;
+    text-align: center;
+    color:  #f15d4c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.WordLeft{
+    font-size: 15px;
+    text-align: left;
+    color:  #f15d4c;
+    padding-right: 20%;
+    padding-left: 20%;
+    padding-bottom: 100px;
+    cursor: grab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.WordRight{
+    font-size: 15px;
+    text-align: right;
+    float: right;
+    padding-right: 20%;
+    padding-left: 20%;
+    color:  #f15d4c;
+    padding-bottom: 100px;
+    cursor: grab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 3 The End Left S2 - Nada */
+
+.companyImage{
+    height: 240px;
+    width: 450px;
+    float: center;
+    position: center;
+    margin-top: 5%;
+    margin-left: 23%;
+    border-radius: 14%;
+}
+
+.title{
+    font-size: 20px;
+    text-align: center;
+    color:  #f15d4c;
+    margin-top: 50px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.words{
+    font-size: 15px;
+    text-align: center;
+    color:  #f15d4c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.WordLeft{
+    font-size: 15px;
+    text-align: left;
+    color:  #f15d4c;
+    padding-right: 20%;
+    padding-left: 20%;
+    padding-bottom: 100px;
+    cursor: grab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.WordRight{
+    font-size: 15px;
+    text-align: right;
+    float: right;
+    padding-right: 20%;
+    padding-left: 20%;
+    color:  #f15d4c;
+    padding-bottom: 100px;
+    cursor: grab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 4 The End Left S3 - Nada */
+
+.companyImage{
+    height: 240px;
+    width: 450px;
+    float: center;
+    position: center;
+    margin-top: 5%;
+    margin-left: 23%;
+    border-radius: 14%;
+}
+
+.title{
+    font-size: 20px;
+    text-align: center;
+    color: #f15d4c;
+    margin-top: 50px; 
+    /* margin-left: 150px; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.words{
+    font-size: 15px;
+    text-align: center;
+    color:  #f15d4c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.WordLeft{
+    font-size: 15px;
+    text-align: left;
+    color:  #f15d4c;
+    padding-right: 20%;
+    padding-left: 20%;
+    padding-bottom: 100px;
+    cursor: grab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.WordRight{
+    font-size: 15px;
+    text-align: right;
+    float: right;
+    padding-right: 20%;
+    padding-left: 20%;
+    color:  #f15d4c;
+    padding-bottom: 100px;
+    cursor: grab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 4 The End Right S1 - Nada */
+
+.companyImage{
+    height: 240px;
+    width: 450px;
+    float: center;
+    position: center;
+    margin-top: 5%;
+    margin-left: 23%;
+    border-radius: 14%;
+}
+
+.title{
+    font-size: 20px;
+    text-align: center;
+    color:  #f15d4c;
+    margin-top: 50px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.words{
+    font-size: 15px;
+    text-align: center;
+    color:  #f15d4c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.WordLeft{
+    font-size: 15px;
+    text-align: left;
+    color:  #f15d4c;
+    padding-right: 20%;
+    padding-left: 20%;
+    padding-bottom: 100px;
+    cursor: grab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.WordRight{
+    font-size: 15px;
+    text-align: right;
+    float: right;
+    padding-right: 20%;
+    padding-left: 20%;
+    color:  #f15d4c;
+    padding-bottom: 100px;
+    cursor: grab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 4 The End Right S2 - Nada */
+
+.companyImage{
+    height: 240px;
+    width: 450px;
+    float: center;
+    position: center;
+    margin-top: 5%;
+    margin-left: 23%;
+    border-radius: 14%;
+}
+
+.title{
+    font-size: 20px;
+    text-align: center;
+    color:  #f15d4c;
+    margin-top: 50px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.words{
+    font-size: 15px;
+    text-align: center;
+    color:  #f15d4c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.WordLeft{
+    font-size: 15px;
+    text-align: left;
+    color: #f15d4c;
+    padding-right: 20%;
+    padding-left: 20%;
+    padding-bottom: 100px;
+    cursor: grab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.WordRight{
+    font-size: 15px;
+    text-align: right;
+    float: right;
+    padding-right: 20%;
+    padding-left: 20%;
+    color: #f15d4c;
+    padding-bottom: 100px;
+    cursor: grab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 4 The End Right S3 - Nada */
+/* End! */
 
 * {
     margin: 0px;
@@ -307,11 +441,11 @@ html,body {
   float: right;
 /*   margin-top: 30px; */
   margin-right: 350px; 
-  color: #800000;
+  color: #f15d4c;
 }
 
 .select-where {
-   color: #FF0000;
+   color: #f15d4c;
 }
 
 .cta-form {
@@ -329,7 +463,7 @@ html,body {
 /*   border-radius: 5px; */
   background-color: #C0C0C0;
   margin-top: 40px;
-  color: #FF0000;
+  color: #f15d4c;
   padding: 7px 25px;
 }
 
@@ -364,8 +498,8 @@ footer {
     background-color: #415ba9;
     position:relative ;
 /* I have changed */
-    height: 450px;
-    margin-top: 150px ;
+    height: 440px;
+    margin-top: 250px ;
 /*End of my changes*/
     clear: both;
     color: #ffffff;
@@ -396,15 +530,7 @@ footer {
     margin-top: 0px;
     
 }
-/*table {
-   position: absolute;
-   left:0%;
-   margin-top: 70px;
-   margin-bottom: 30px;
-   height: 70px;
-   margin-right: 100px; 
-}
-*/
+
 #divfoot ul{
     /*do not change*/
     margin-top: 0px;
@@ -431,4 +557,441 @@ footer {
     display: inline-block;
     padding: 0 15px;
 
+}
+.title-font-orange {
+
+    margin-bottom: 60px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 70px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    font-size: xx-large;
+    float: right;
+    color: #f15d4c;
+    
+
+}
+.info-style{
+
+    background-color: #f5f5f5;
+    width: 700px;
+    padding: 20px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-style:ridge ;
+    border-width: 1px;
+    border-color: #C0C0C0;
+    text-align: center;
+    font-weight: bold;
+ 
+  
+
+}
+.img-riyadh{
+
+    width: 600px;
+    height: 410px;
+    display: block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    background-image: url(../Project/images/istockphoto-939989958-612x612.jpg);
+
+}
+.break-div{
+    margin-top: 150px;
+}
+.info-style2 p {
+    padding: 10px;
+    font-weight: bold;
+    font-size: x-large;
+    color: #f15d4c;
+    text-align: center;
+
+}
+.info-style2{
+
+    padding: 10px;
+    width: 300px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style:ridge ;
+    border-width: 1px;
+    border-color: #C0C0C0;
+    text-align: right;
+    font-weight: bold;
+
+}
+
+.divs  {
+    
+    display: flex;
+    align-content: center;
+    
+
+}
+
+
+.section-box-background{
+    padding: 15em;
+    background-image: url(../Project/images/banner.png);
+    background-size:100% auto;
+    background-repeat: no-repeat;
+}
+.cover p{
+    text-align: right;
+    color: #ffffff;
+    font-size: x-large;
+    padding-right: 6em;
+    padding-left: 6em;
+
+}
+.cover{
+    text-align: center;
+    color: #ffffff;
+    font-size: x-large;
+    padding-bottom: 20em;
+    padding-top: 2em;
+    padding-left: 2em;
+    display: block;
+    background-color: #f15d4c;
+    border-radius: 25px;
+    width: 40%;
+    height: 10px;
+    margin-left: 60%;
+    margin-top: 10%;
+
+    
+}
+.read-more{
+
+    background-color: #ffffff;
+    display: block;
+    width: 13em;
+    margin-top: 7em;
+    margin-left: 11em;
+
+
+}
+.underline2{
+    text-decoration: none;
+    font-weight:bolder;
+    color: black;
+
+   
+}
+.plan-home{
+    display: flex;
+    padding: 3em;
+    background-color: rgb(255, 255, 255);
+    
+
+
+}
+.plans-home{
+
+    margin-left: 10%;
+    background-color: #ffffff;
+    display: flex;
+   
+    
+}
+.pic1{
+
+    margin: 20px;
+    
+    width: 30em;
+    height: 20em;    
+    background-color: #415ba9;
+    border: black;
+    border-style: solid;
+}
+.pic2{
+
+    
+    margin: 20px;
+    width: 30em;
+    height: 20em;    
+    background-color: #415ba9;
+    border: black;
+    border-style: solid;
+}
+.pic3{
+
+    margin: 20px;
+    width: 30em;
+    height: 20em;    
+    background-color: #415ba9;
+    border: black;
+    border-style: solid;
+}
+.text-plan{
+    background-color: #ffffff;
+    text-align: right;
+    padding-right: 13em;
+    font-size: larger;
+    font-weight: bold;
+}
+.plans-box{
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 50%;
+
+}
+.read-more-plan{
+    padding: 8px;
+    background-color: #ffffff;
+    display: block;
+    text-align: left;
+    
+    
+}
+
+.green-box{
+    padding: 10em;
+    background-color: #4aba78;
+    border-radius: 200px;
+    padding: 30px;
+    height:600px;
+    width: 100%;
+
+}
+.green-box-read{
+
+    color: #ffffff;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.green-box-read p{
+
+    padding-top: 10em;
+    padding-right: 20em;
+    color: #ffffff;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.company-pic{
+    margin-top: 310px;
+    margin-left: -400px;
+    background-repeat: no-repeat;
+    background-image: url(../Project/images/left3.png);
+    width: 50%;
+    min-height: 800px;
+    background-position: center;
+    background-size: cover;
+
+}
+.div-green-all{
+
+    width: 90%;
+    max-width: 1000PX;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.read-more2{
+
+    background-color: #ffffff;
+    display: block;
+    width: 13em;
+    margin-top: 13em;
+    margin-left: 15em;
+    padding: 1em;
+    text-align: center;
+
+
+}
+.boxes-companies{
+    background-color: rgb(255, 255, 255);
+    display:grid;
+    padding: 10em;
+    /* margin-left: 5px; */
+    /* margin-right: 500px; */
+}
+.two-boxes{
+    background-color: rgb(255, 255, 255);
+    padding: 3em;
+    display: flex;
+    margin-left: 15em;
+
+}
+.box-1company{
+    padding: 10%;
+    width: 30em;
+    background-image: url(../Project/images/left1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* margin-right: 10px; */
+    
+}
+.box-2company{
+    padding: 10%;
+    width: 30em;
+    background-size: contain;
+    background-image: url(../Project/images/right1.png);
+    background-repeat: no-repeat;
+}
+
+.cpmany-names-divs{
+    width: fit-content;
+    display: flex;
+    position: relative;
+    margin-left: 20%;
+    padding: 3em;
+}
+#nam{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 1em;
+    margin-left: 10em;
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+    
+}
+.namessl1{
+    background-color: #ffffff;
+    /* padding: 1em; */
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    width: 30em;
+    margin-right: 190px;
+}
+
+.namessr1{
+    background-color: #ffffff;
+    /* padding: 1em; */
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    width: 30em;
+    padding-right: 120px;
+}
+.namessl2{
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    width: 30em;
+    padding-right: 80px;
+}
+.namessr2{
+    background-color: #ffffff;
+    /* padding: 1em; */
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    width: 30em;
+    padding-right: 120px;
+}
+
+.namessl3{
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    width: 30em;
+    padding-left: 40px;
+}
+.namessr3{
+    background-color: #ffffff;
+    /* padding: 1em; */
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    width: 30em;
+    padding-right: 140px;
+}
+
+.box-3company{
+    padding: 10%;
+    width: 30em;
+    background-size: contain;
+    background-image: url(../Project/images/left2.png);
+    background-repeat: no-repeat;
+}
+.box-4company{
+    padding: 10%;
+    width: 30em;
+    background-size: contain;
+    background-image: url(../Project/images/right2.png);
+    background-repeat: no-repeat;
+}
+/* Nada  */
+.box-5company{
+    padding: 10%;
+    width: 30em;
+    background-size: contain;
+    background-image: url(../Project/images/left3.png);
+    background-repeat: no-repeat;
+}
+.box-6company{
+    padding: 10%;
+    width: 30em;
+    background-size: contain;
+    background-image: url(../Project/images/right3.png);
+    background-repeat: no-repeat;
+}
+
+#nam1{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 1em;
+    margin-left: 10em;
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+    
+}
+#nam2{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 1em;
+    margin-left: 10em;
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+    
+}
+.read-more-companies-1{
+    
+    background-color: #f5f5f5;
+    display: block;
+    width: 8em;
+    padding: 1em;
+    text-align: center;
+    margin-left: 15em;
+}
+.toplogin{
+    
+    position: relative;
+    float: left;
+    border-radius: 5px;
+    background-color: #ededed;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding: 5px;
+
+}
+.underline3{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    padding-top: 60px;
+   
+}
+.underline2{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    padding-top: 60px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    position: relative;
+    
 }
