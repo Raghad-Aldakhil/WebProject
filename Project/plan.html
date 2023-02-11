@@ -5,6 +5,7 @@
            خطط رحلتك 
         </title>
         <link rel="stylesheet" href="style.css">
+        <script src="plans.js" > </script>
        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
  </head>
 <body>  
@@ -15,13 +16,6 @@
             <div class="top"> <a class="underline" href="new.html"> جديد الرياض     </a></div>
             <div class="top"> <a class="underline" href="about.html">معلومات الرياض  </a></div>
     </header>
-    
-    
-    
-    
-    
-    
-    <!-- your code here-->
     
     <br></br>
     <br></br>
@@ -34,59 +28,42 @@
             </div>
             <br></br>
 
-            <form class="cta-form" action="#">
-              <div>
+            
+              <div class="new-select">
                 <div class="select-where"><label for="select-where">اختر الأيام</label><dev>
                 <div class="form-list">
                 <select id="select-where" required>
                   <option value="">اختر اليوم المناسب</option>
-                  <option value="friends">السبت</option>
-                  <option value="youtube">الأحد</option>
-                  <option value="podcate">الإثنين</option>
-                  <option value="ad">الثلاثاء</option>
-                  <option value="others">الأربعاء</option>
-                  <option value="others">الخميس</option>
-                  <option value="others">الجمعة</option>
+                  <option id ="2" value="2">- </option>
+                  <option id ="3" value="3">ثلاثة ايام </option>
+                  <option id ="4" value="4">اربع ايام</option>
+                  <option id ="5" value="5">خمس ايام </option>
+                  <option id ="6" value="6">ست ايام</option>
+                  <option id ="7" value="7">سبع ايام</option>
+                  <option id ="8" value="8">ثمن ايام</option>
+                  <option id ="9" value="9">تسع ايام</option>
+                  <option id ="10" value="10">عشر ايام</option>
                 </select>
-                  </div>
+                </div>
+               </div>
+
+               <button class="btn-form" onclick="display_plan()">ابدا</button>
               </div>
-
-              <button class="btn-form">ابدا</button>
-
-            </form>
-          </div>
+              
         </div>
       </div>
+      
     </section>
-  </main>
+    <div class="box-plan-out"> 
+    
+     </div>
+  
 
     
-   <!-- end of my code here-->
+   
     
     <footer>
         <div id="divfoot">
-            <!--
-            
-            <table>
-                <tr id="mid">
-                    <th class="th" width="300"><h3> روابط مفيدة </h3> </th>
-                    <th class="th" width="300"><h3> مواقع ذات صلة</h3></th>
-                </tr>
-                
-                <tr>
-                    <td class="td"> 
-                        <div class="bottom"><a class="underline" href=""> تقديم شكوى </a></div>
-                        <div class="bottom"><a class="underline" href=""> تسجيل اقتراحات</a></div>
-                    </td>
-                    <td class="td"> 
-                        <div class="bottom"> <a class="underline" href="https://riyadhseason.sa/"> موقع موسم الرياض</a></div>
-                        <div class="bottom"> <a class="underline" href="https://mt.gov.sa/"> وزارة السياحه</a></div>
-                        <div class="bottom"> <a class="underline" href="https://www.gea.gov.sa/"> الهيئة العامة للترفيه</a></div>
-                    </td>  
-                    
-                </tr>
-            </table>
-            -->
             <ul class="list">
                 <li>
                     <h2> روابط مفيدة  </h2>
@@ -116,7 +93,7 @@
 
         </div>
         
-        <!-- your code here-->
+      
     
         <div class="line"><hr></hr></div>
               <div class="bottom"> <a class="underline" href="#">شروط الإستخدام</a></div>
@@ -132,12 +109,7 @@
       <p class="bottom-3">
         <br>تمام التحديث (2023-1-1)<p>
     </div>
-
-    
-        <!-- end of my code here-->
-
-        
-   
     </footer>
     </body>
+    
 </html>
