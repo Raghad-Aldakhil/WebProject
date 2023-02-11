@@ -23,34 +23,6 @@ body{
     padding-left: 350px ;
 }
 
-.buttonL1{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color: #f15d4c;
-    top: 384.6px;
-    left: 496.3px;
-}
-
-.okL1{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color: #f15d4c;
-    top: 384px;
-    left: 352px;
-}
-
-.aL1{
-    font-size: 14px;
-    color: #f15d4c;
-    cursor: grab;
-    position: absolute;
-    text-decoration: none;
-    top: 388px;
-    left: 505.4px;
-}
-
 /* Right 1 */
 .ImageRight1 img{
     height: 160px;
@@ -62,35 +34,6 @@ body{
     left: 0px;
 }
 
-.buttonR1{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color:  #f15d4c;
-    top: 384.5px;
-    left: 812.9px;
-}
-
-.okR1{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color:  #f15d4c;
-    top: 384px;
-    left: 655px;
-}
-
-.aR1{
-    font-size: 14px;
-    color:  #f15d4c;
-    cursor: grab;
-    position: absolute;
-    text-decoration: none;
-    top: 387.2px;
-    left: 823px;
-}
-
-
 /* Left 2 */
 .ImageLeft2 img{
     height: 160px;
@@ -101,35 +44,6 @@ body{
     padding-top: 40px;
 }
 
-.buttonL2{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color:  #f15d4c;
-    top: 584.4px;
-    left: 496px;
-}
-
-.okL2{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color:  #f15d4c;
-    top: 584px;
-    left: 353px;
-}
-
-.aL2{
-    font-size: 14px;
-    color:  #f15d4c;
-    cursor: grab;
-    position: absolute;
-    text-decoration: none;
-    top: 588px;
-    left: 506.4px;
-}
-
-
 /* Right 2 */
 .ImageRight2 img{
     height: 160px;
@@ -139,35 +53,6 @@ body{
     padding-right: 350px;
     padding-top: 40px;
 }
-
-.buttonR2{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color:  #f15d4c;
-    top: 584.5px;
-    left: 812.9px;
-}
-
-.okR2{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color: rgb(227, 46, 46);
-    top: 584.5px;
-    left: 656px;
-}
-
-.aR2{
-    font-size: 14px;
-    color:  #f15d4c;
-    cursor: grab;
-    position: absolute;
-    text-decoration: none;
-    top: 587px;
-    left: 822px;
-}
-
 
 /* Left 3 */
 .ImageLeft3 img {
@@ -180,35 +65,6 @@ body{
     padding-bottom: 20px;
 }
 
-.buttonL3{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color:  #f15d4c;
-    top: 784.5px;
-    left: 495.9px;
-}
-
-.okL3{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color:  #f15d4c;
-    top: 784px;
-    left: 353px;
-}
-
-.aL3{
-    font-size: 14px;
-    color:  #f15d4c;
-    cursor: grab;
-    position: absolute;
-    text-decoration: none;
-    top: 787px;
-    left: 507px;
-}
-
-
 /* Right 3 */
 .ImageRight3 img{
     height: 160px;
@@ -218,34 +74,6 @@ body{
     padding-right: 350px;
     padding-top: 40px;
     padding-bottom: 100px;
-}
-
-.buttonR3{
-    height: 20px;
-    width: 54px;
-    position: absolute;
-    color:  #f15d4c;
-    top: 784.4px;
-    left: 813px;
-}
-
-.okR3{
-    height: 18px;
-    width: 18px;
-    position: absolute;
-    color:  #f15d4c;
-    top: 784px;
-    left: 657px;
-}
-
-.aR3{
-    font-size: 14px;
-    color:  #f15d4c;
-    cursor: grab;
-    position: absolute;
-    text-decoration: none;
-    top: 786.6px;
-    left: 822px;
 }
 
 /* 1 The End Company - Nada */
@@ -819,12 +647,8 @@ footer {
 .divs  {
     
     display: flex;
-    align-content: center;
-    
-
+    align-content: center;   
 }
-
-
 .section-box-background{
     padding: 15em;
     background-image: url(../Project/images/banner.png);
@@ -1023,7 +847,7 @@ footer {
     padding: 10%;
     width: 30em;
     background-size: contain;
-    background-image: url(../Project/images/left2.png);
+    background-image: url(../Project/images/right1.png);
     background-repeat: no-repeat;
 }
 
@@ -1056,7 +880,7 @@ footer {
     padding: 10%;
     width: 30em;
     background-size: contain;
-    background-image: url(../Project/images/right3.png);
+    background-image: url(../Project/images/left2.png);
     background-repeat: no-repeat;
 }
 .box-4company{
@@ -1066,7 +890,33 @@ footer {
     background-image: url(../Project/images/right2.png);
     background-repeat: no-repeat;
 }
+/* Nada  */
+.box-5company{
+    padding: 10%;
+    width: 30em;
+    background-size: contain;
+    background-image: url(../Project/images/left3.png);
+    background-repeat: no-repeat;
+}
+.box-6company{
+    padding: 10%;
+    width: 30em;
+    background-size: contain;
+    background-image: url(../Project/images/right3.png);
+    background-repeat: no-repeat;
+}
+
 #nam1{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 1em;
+    margin-left: 10em;
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+    
+}
+#nam2{
     text-align: center;
     background-color: #ffffff;
     padding: 1em;
@@ -1105,4 +955,3 @@ footer {
     padding-top: 60px;
    
 }
-
