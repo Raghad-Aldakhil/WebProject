@@ -16,8 +16,9 @@ Ruba : 440019725
 
 # Discription :
 In this project:
-This website is designed to help people organize their travels. It provides a comprehensive platform for users to plan their trips, from booking flights and hotels to creating itineraries and packing lists. He also offers helpful tips and advice on how to get the most out of their travels, such as budgeting, finding the best deals, and staying safe. The site also allows users to share their experiences with others, so they can get feedback and advice from other travelers. With its user-friendly interface and comprehensive features, this website is a great resource for anyone looking to plan their next trip.
-The target audience: is all of  people that live in Riyadh and near from Riyadh 
+This website is designed to help people organize their trip to Riyadh. It provides a comprehensive platform for users to plan their trips depending on the days they will be spending in Riyadh. it offers helpful tips and advice on how to get the most out of their travels. With its user-friendly interface and comprehensive features, this website is a great resource for anyone looking to plan their next trip to Riyadh .
+The target audience: people that live in Riyadh and near from Riyadh or tourists. 
+
 
 # 1.Flow Chart :  
 IN THE DOCFILE
@@ -40,13 +41,14 @@ HTML&CSS REF:
 خطط رحلتك
 
 
+# 4.Business Logic 
+Our website that organizes trips: It has a database structure that includes tables of users, information , connected with nodejs, only the successfully submitted inputs through the server. The users table stores information about website users, such as user name, password.
 
-#4.Business Logic 
-Our website that organizes trips: It has a database structure that includes tables of users, trips, destinations and reviews. The users table stores information about website users, such as name, email address, and account details. The flight schedule stores information about flights, such as destination, dates, and cost. The destinations table stores information about various destinations, such as location, landmarks, and activities. Finally, the reviews table will store users' reviews of trips, such as ratings and comments.
+SQL Queries: SQL queries are used to retrieve data from a database and display it on a website. SQL queries can be used to retrieve information about users name or password .
 
-SQL Queries: SQL queries are used to retrieve data from a database and display it on a website. For a website that organizes trips, SQL queries can be used to retrieve information about trips, such as destination, duration, cost, and other details. SQL queries can also be used to store information about trips, such as the number of people going on the trip, trip dates, and payment information.
+HTML Forms and NodeJS : HTML Forms and NodeJS can be used to store Login/SinUp data, HTML forms can be used to allow users to enter information, such as name and password . NodeJS can be used to process information from HTML forms and store them in a database using mongoDB. 
 
-HTML Forms and NodeJS: HTML Forms and NodeJS can be used to create a website that organizes trips. HTML forms can be used to allow users to enter information about flights, such as destination, duration, cost, and other details. NodeJS can be used to process information from HTML forms and store them in a database. NodeJS can also be used to create a user interface for a website, allowing users to view and manage their journeys.
+
 
 # References:
 1-[Riyadh season. (2020). Taken from https://riyadhseason.sa/]
