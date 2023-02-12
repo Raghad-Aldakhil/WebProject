@@ -19,6 +19,7 @@ The target audience: is all of  people that live in Riyadh and near from Riyadh
 
 # 1.Flow Chart :  
 IN THE DOCFILE
+# https://mockittapp.wondershare.com/flow/cPDjHf0irpyfludMuxJUn2
 
 # 2.Look & Feel  
 The website that organizes tours uses a modern and minimalist design style. The website features a simple and clean design with an emphasis on ease of use. The colors used are muted and calm, and the typography is easy to read. Navigation is intuitive and straightforward, allowing users to quickly find the information they need. The overall design is focused on providing a pleasant and efficient user experience.
@@ -34,7 +35,7 @@ HTML&CSS REF:
 
 
 # 3.Dynamic Components 
-IN THE DECFILE
+خطط رحلتك
 
 
 
