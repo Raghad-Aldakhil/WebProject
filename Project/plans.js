@@ -63,7 +63,7 @@ switch (selectedOption) {
         );
       break;
     case '9':
-        document.getElementById("output2").innerHtml =  document.write("<br>"+ "<font color='red'><center>"+"<h1>..خطتك لتسعة أيام ايام هي </h1>"+"<br>"+
+        document.getElementById("output2").innerHtml =  document.write("<br>"+ "<font color='red'><center>"+"<h1>..خطتك لتسعة ايام هي </h1>"+"<br>"+
         "<h2> اليوم الأول : رحلة الى الرمال الحمراء</h2>"
         +"<h2> اليوم الثاني : جولة خيول بين جبال العمارية </h2>"
         +"<h2> اليوم الثالث : حلق في سماء العاذرية</h2>"
