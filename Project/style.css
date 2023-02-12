@@ -434,6 +434,17 @@ html,body {
     margin-right: 80px;
     padding: 5px;
 }
+.toplogo {
+    /*do not change*/
+    position: relative;
+    float: right;
+    margin-right: 80px;
+    
+    
+}
+.toplogo img {
+   width: 120px;
+}
 
 .underline {
     /*do not change*/
