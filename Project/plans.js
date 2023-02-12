@@ -30,7 +30,7 @@ switch (selectedOption) {
         );
         break;
     case '6':
-        document.getElementById("output2").innerHtml =  document.write("<br>"+"<font color='red'><center>"+"<h1>..خطتك لأربع ايام هي </h1>"+"<br>"+
+        document.getElementById("output2").innerHtml =  document.write("<br>"+"<font color='red'><center>"+"<h1>..خطتك لست ايام هي </h1>"+"<br>"+
         "<h2> اليوم الأول : رحلة الى الرمال الحمراء</h2>"
         +"<h2> اليوم الثاني : جولة خيول بين جبال العمارية </h2>"
         +"<h2> اليوم الثالث : حلق في سماء العاذرية</h2>"
@@ -40,7 +40,7 @@ switch (selectedOption) {
         );
       break;
     case '7':
-        document.getElementById("output2").innerHtml =  document.write( "<br>"+"<font color='red'><center>"+"<h1>..خطتك لأربع ايام هي </h1>"+"<br>"+
+        document.getElementById("output2").innerHtml =  document.write( "<br>"+"<font color='red'><center>"+"<h1>..خطتك لسبع ايام هي </h1>"+"<br>"+
         "<h2> اليوم الأول : رحلة الى الرمال الحمراء</h2>"
         +"<h2> اليوم الثاني : جولة خيول بين جبال العمارية </h2>"
         +"<h2> اليوم الثالث : حلق في سماء العاذرية</h2>"
@@ -51,7 +51,7 @@ switch (selectedOption) {
         );
         break;
     case '8':
-        document.getElementById("output2").innerHtml =  document.write("<br>"+"<font color='red'><center>"+ "<h1>..خطتك لأربع ايام هي </h1>"+"<br>"+
+        document.getElementById("output2").innerHtml =  document.write("<br>"+"<font color='red'><center>"+ "<h1>..خطتك لثمانية ايام هي </h1>"+"<br>"+
         "<h2> اليوم الأول : رحلة الى الرمال الحمراء</h2>"
         +"<h2> اليوم الثاني : جولة خيول بين جبال العمارية </h2>"
         +"<h2> اليوم الثالث : حلق في سماء العاذرية</h2>"
@@ -63,7 +63,7 @@ switch (selectedOption) {
         );
       break;
     case '9':
-        document.getElementById("output2").innerHtml =  document.write("<br>"+ "<font color='red'><center>"+"<h1>..خطتك لأربع ايام هي </h1>"+"<br>"+
+        document.getElementById("output2").innerHtml =  document.write("<br>"+ "<font color='red'><center>"+"<h1>..خطتك لتسعة أيام ايام هي </h1>"+"<br>"+
         "<h2> اليوم الأول : رحلة الى الرمال الحمراء</h2>"
         +"<h2> اليوم الثاني : جولة خيول بين جبال العمارية </h2>"
         +"<h2> اليوم الثالث : حلق في سماء العاذرية</h2>"
@@ -76,7 +76,7 @@ switch (selectedOption) {
         );
       break;
     case '10':
-        document.getElementById("output2").innerHtml =  document.write("<br>"+"<font color='red'><center>"+ "<h1>..خطتك لأربع ايام هي </h1>"+"<br>"+
+        document.getElementById("output2").innerHtml =  document.write("<br>"+"<font color='red'><center>"+ "<h1>..خطتك لعشر ايام هي </h1>"+"<br>"+
         "<h2> اليوم الأول : رحلة الى الرمال الحمراء</h2>"
         +"<h2> اليوم الثاني : جولة خيول بين جبال العمارية </h2>"
         +"<h2> اليوم الثالث : حلق في سماء العاذرية</h2>"
