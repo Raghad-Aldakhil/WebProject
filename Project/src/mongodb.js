@@ -1,5 +1,5 @@
 const mongoose=require("mongoose");
-const mongoose=require("express");
+
 
 //make the data base
 mongoose.set("strictQuery",true);
