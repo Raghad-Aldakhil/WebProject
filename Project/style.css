@@ -772,9 +772,10 @@ footer {
 .pic1{
 
     margin: 20px;
-    
     width: 30em;
-    height: 20em;    
+    height: 20em;  
+    background-image: url(./images/ytlf_hdh_lmkn_mn_mnhdr_skhry_ytl_l_wd_ws_ybdw_l_nhy_lh.jpg);  
+    background-size:contain;
     background-color: #415ba9;
     border: black;
     border-style: solid;
@@ -785,6 +786,9 @@ footer {
     margin: 20px;
     width: 30em;
     height: 20em;    
+    background-image: url(./images/images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #415ba9;
     border: black;
     border-style: solid;
@@ -794,6 +798,9 @@ footer {
     margin: 20px;
     width: 30em;
     height: 20em;    
+    background-image: url(./images/Riyadh-season-2022.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #415ba9;
     border: black;
     border-style: solid;
