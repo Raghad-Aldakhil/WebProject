@@ -1,0 +1,241 @@
+    * {
+    margin: 0px;
+    padding: 0;
+}
+
+header {
+/*do not change*/
+    width: auto;
+    height: 70px;
+    background-color: #ffffff;
+
+}
+
+html,body {
+    /*do not change*/
+    height: 100%;
+}
+#container{
+    min-height: 100%;
+
+}
+#main{
+    /*do not change*/
+    overflow: auto;
+    padding-bottom: 100px;
+}
+
+.top {
+    /*do not change*/
+    position: relative;
+    float: right;
+    border-radius: 5px;
+    background-color: #415ba9;
+    margin-top: 30px;
+    margin-right: 80px;
+    padding: 5px;
+}
+
+.underline {
+    /*do not change*/
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    padding-top: 60px;
+   
+}
+
+/* here is my code */
+
+.heading-secondary {
+  float: right;
+/*   margin-top: 30px; */
+  margin-right: 450px; 
+  color: #800000;
+  font-size: 25px;
+}
+
+.select-where {
+   color: #FF0000;
+}
+
+.cta-form {
+  margin-top: 0px;
+  padding: 10px;
+  list-style: circle;
+  font-size: 12px;
+  line-height: 1.6;
+  margin-bottom: 10px;
+  text-align:center ;
+  font-size: 25px
+}
+
+.btn-form {
+/*   border-radius: 5px; */
+  background-color: #C0C0C0;
+  margin-top: 40px;
+  color: #FF0000;
+  padding: 7px 25px;
+}
+
+.line {
+  font-size: 20px;
+  padding-top: 120px;
+}
+
+.bottom {
+  float: right;
+  margin-top: 10px;
+}
+
+.bottom-2 {
+  float: right;
+  margin-top: 40px;
+  margin-right: -23%;
+  font-size: 10px;
+  position: relative;
+}
+
+.bottom-3 {
+  float: right;
+  margin-top: 40px;
+  margin-right: 71%;
+  font-size: 10px;
+  position: relative;
+}
+
+.image {
+  text-decoration: none;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.heading-1 {
+  float: right;
+  margin-top: 40px;
+  margin-right: 10%;
+/*   font-size: 10px; */
+  position: relative;
+  color: #FF0000;
+}
+
+.paragraph-1 {
+  float: right;
+  margin-top: 40px;
+  margin-right: -15%;
+  font-size: 20px;
+  position: relative;
+  text-align: right;
+}
+
+.heading-2 {
+  float: right;
+  margin-top: 40px;
+  margin-right: 10%;
+/*   font-size: 10px; */
+  position: relative;
+  color: #FF0000;
+}
+
+.paragraph-2 {
+  float: right;
+  margin-top: 40px;
+  margin-right: -18%;
+  font-size: 20px;
+/*   position: relative; */
+  text-align: right;
+}
+
+.heading-3 {
+  float: right;
+  margin-top: 40px;
+  margin-right: 190px;
+/*   font-size: 10px; */
+  position: relative;
+  color: #FF0000;
+}
+
+.paragraph-3 {
+  float: right;
+  margin-top: 40px;
+  margin-right: -10%;
+  font-size: 20px;
+  position: relative;
+  text-align: right;
+}
+
+/* end of my code */
+
+footer {
+    /*do not change*/
+    background-color: #415ba9;
+    position:relative ;
+    height: 405px;
+    margin-top: 150px ;
+    clear: both;
+    color: #ffffff;
+
+}
+#social{
+    /*do not change*/
+    text-align: right;
+    color:rgb(30, 29, 29);
+    padding-bottom: 25px;
+    margin-right: 50px;
+    
+   
+
+}
+#social a {
+    /*do not change*/
+    font-size: 24px;
+    color: inherit;
+    width: 40px;
+    height: 40px;
+    line-height: 38px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid rgb(30, 29, 29);
+    border-radius:50px ;
+    margin:0 8px ;
+    margin-top: 0px;
+    
+}
+/*table {
+   position: absolute;
+   left:0%;
+   margin-top: 70px;
+   margin-bottom: 30px;
+   height: 70px;
+   margin-right: 100px; 
+}
+*/
+#divfoot ul{
+    /*do not change*/
+    margin-top: 0px;
+    padding: 0px;
+    list-style: circle;
+    font-size: 12px;
+    line-height: 1.6;
+    margin-bottom: 0px;
+    text-align:center ;
+
+}
+#divfoot ul li a{
+   /*do not change*/
+    color:inherit;
+    text-decoration: none;
+    opacity: 0.8;
+}
+#divfoot ul li a :hover{
+    opacity: 1;
+
+}
+#divfoot ul li {
+    /*do not change*/
+    display: inline-block;
+    padding: 0 15px;
+
+}
